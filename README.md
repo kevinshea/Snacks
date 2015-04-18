@@ -1,4 +1,5 @@
-Alt-H1 I Got Snacks on Snacks on Snacks
+I Got Snacks on Snacks on Snacks
+================================
 
 ## Goal of Analysis
 
